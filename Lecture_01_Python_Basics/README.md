@@ -1,7 +1,7 @@
 +Float
-Low precision
-Very fast
-Used in games and graphics
+-Low precision
+-Very fast
+'-Used in games and graphics
 
 + Double
 - Higher precision than float
